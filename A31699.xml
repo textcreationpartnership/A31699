@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a papist</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31699</idno>
+            <idno type="STC">Wing C1982</idno>
+            <idno type="STC">ESTC R35980</idno>
+            <idno type="EEBO-CITATION">15585050</idno>
+            <idno type="OCLC">ocm 15585050</idno>
+            <idno type="VID">103951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a papist</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103951:1"/>
+            <p>THE CHARACTER OF A PAPIST.</p>
+            <q xml:lang="lat">Quis credit tantum Religio ſuaſiſſe malorum.</q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London<g ref="char:punc">▪</g>
+               </hi> Printed in the Year 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_polemic">
+            <pb facs="tcp:103951:2"/>
+            <pb n="3" facs="tcp:103951:2"/>
+            <head>THE CHARACTER OF A PAPIST.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Papiſt</hi> is a thing like a Man, but more unhappy than a <hi>Beaſt,</hi> ſince he is ſo far from being reaſonable, that he wants the uſe of his <hi>Senſes,</hi> God made him a Man, but his own zealous Ignorance tranſ<g ref="char:EOLhyphen"/>forms him into an Idol, not unlike that of the <hi>Pſalmiſt, He hath Eyes and ſees not.</hi> For he cannot (or which is worſe, out of a reſolute Blind<g ref="char:EOLhyphen"/>neſs will not) diſtinguiſh between the Colour, Taſte, and Subſtance of Fleſh and a Wafer.</p>
+            <p>He is one that thinks it ſafeſt walking blindfold, and puts out his own Eyes, (we mean his <hi>Reaſon</hi> the <hi>Lamp</hi> of the <hi>Soul</hi>) to be guided through thick and thin by another, and prefers the dark Lanthorn of an inveighing <hi>Prieſt,</hi> be<g ref="char:EOLhyphen"/>fore the bright Taper of <hi>Gods Word,</hi> or the natural Light of his <hi>Conſcience</hi> which the wiſeſt of Men ſtiles the Candle of the <hi>Lord.</hi>
+            </p>
+            <p>His main boaſt is of good Works, though no Mans Life is more debaucht and ſullied with the continual ſtains of re<g ref="char:EOLhyphen"/>pented Crimes: Yet ſo confident he is not only to quit ſcores with Heaven, but to obliege it too by his ſuperarogating
+<pb n="4" facs="tcp:103951:3"/>Merits, Whilſt his conniving Ghoſtly Father, eaſily winks at his Venial ſins, As, <hi>Swearing, Lying, Whoreing, &amp;c.</hi> And his <hi>Holineſs,</hi> for a petty Sum, Cancels thoſe more frightful ones of <hi>Adultery,</hi> and <hi>Inceſt;</hi> and Inrolls him in the Calender of <hi>Saints,</hi> for perpetrating the uſeful Villanies of <hi>Murther, Rebellion,</hi> and <hi>Treaſon.</hi>
+            </p>
+            <p>His <hi>Faith</hi> exceeds that of <hi>Devils,</hi> for they believe the <hi>Truth</hi> and Tremble, but he can reſolutely credit the moſt nonſenſical Lyes in Nature, and never quake or boggle at the matter. He is as ſafe in his <hi>Creed,</hi> as a <hi>Conjurer</hi> in his <hi>In<g ref="char:EOLhyphen"/>chanting Circle.</hi> He believes as his <hi>Church,</hi> and his <hi>Church</hi> be<g ref="char:EOLhyphen"/>lieves as he does: That <hi>Church</hi> which is an <hi>Individuum vagum,</hi> a very <hi>Bull</hi> in expreſſion, an <hi>Abſurdity</hi> in <hi>Terminis, Roman,</hi> Yet <hi>Catholick; Catholick.</hi> Yet <hi>Roman,</hi> a particular General like the <hi>Nurſery</hi> Phraſe, Enter <hi>Seaven Divels, Solus:</hi> A <hi>Church univerſal</hi> confined to the <hi>Pope</hi>'s Perſon, like Legion <hi>Crampt up</hi> in a ſingle <hi>Lucifer.</hi>
+            </p>
+            <p>A Church that is but a meer trick of State, a Politick Stratagem, to awe the ſimple, and maintain the crafty Hierarchy that firſt contriv'd it in pride and Idlen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs. A Spiritual <hi>Legerd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>main</hi> to bubble the credulous at once li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th out of their wits and Money.</p>
+            <p>Their Miracles are equally more numerous and more thin and ayerical, than thoſe recounted in <hi>Holy Scripture;</hi> For what <hi>Chriſt</hi> and his <hi>Apoſtles</hi> performed were ſo groſs and viſible, that all mens <hi>Senſes</hi> could evidence them, but theſe are ſo fine and rarified, and yet ſo many, that it at once puſles the moſt piercing Eye to perceive them and the ableſt Arithmetician to Sum them up: Yet muſt we not call our <hi>Papiſt</hi> an <hi>Athieſt,</hi> he hath a God, but he keeps it in a Box. A <hi>Wafer</hi> which by the wonderful Words of a ſhaveling <hi>Prieſt,</hi> you muſt believe in an inſtant Metamorphoſed (or if you will) tranſubſtantiated into very Fleſh, and Blood, Which is no ſooner made, but forthwith they devour it, which raiſes a Queſtion, Whether a <hi>Cannibal</hi> or <hi>Papiſt,</hi> be the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keſt <hi>Fleſh eater,</hi> ſince the former eats only Mans <hi>Fleſh,</hi> the later that of his <hi>God.</hi>
+            </p>
+            <pb n="5" facs="tcp:103951:3"/>
+            <p> He fancies the Court of Heaven to be like thoſe of Earthly Princes, where all Addreſſes muſt be made by the mediation of Favourites, and therefore as if our Saviours Interceſſion were inſufficient, Courts the ſuffrages of Saints, and ſpends more time in Imploring their Aſſiſtance then in ſupplicating the Mercy of the Almighty; He offers ſuch blaſphemous Titles to the ever bleſſed Virgin, as would (if glorified Eſ<g ref="char:EOLhyphen"/>ſences be capable of diſturbance) make her bluſh and be trou<g ref="char:EOLhyphen"/>bled to hear them; and worries others for Interceſſion in ſuch trivial affairs, as he is aſhamed to relate to his Confeſſor.</p>
+            <p>Here in <hi>England</hi> (which affords no Wolves but thoſe in Sheeps Cloathing) he appears a pretty Innocent Beaſt; but in the Inquiſition proves a Lyon Rampant; he is not Inſpired with the Bleſſed gentle Dove, but carries the Talons of a De<g ref="char:EOLhyphen"/>vouring Vulture, thinks it the onely way of Converſion to knock Religion into peoples heads with Pole-Axes, and eſteem no Arguments ſo proper for the promoting his Catholick Faith, as Fire and Faggot, Racks and Tortures; All <hi>England, Ireland, France, Germany,</hi> the <hi>Valtoline</hi> and <hi>Weſt-Indies</hi> too they have Conſecrated with their Sacrifices, as if the whole World were but their <hi>Golgatha,</hi> or <hi>Acheldema,</hi> ſo much more dainty is their Idol-Worſhip than that of <hi>Bell</hi> and <hi>Dragon</hi> of old, by how much the Blood of Saints is more precious than that of Beaſts; yet all this they ſhall juſtifie by that Text in the vulgar Latine, <hi>Hominem Hereticum devita;</hi> that is, as theſe Maſters of Language Interpret it, <hi>de vita tolle;</hi> If his <hi>Impiety</hi> of <hi>Rome,</hi> the Bell-weather of this Superſtitious Flock, be St <hi>Peters</hi> Succeſſors in any thing, 'tis certainly in denying his Maſter, for never were any things more Diametrically op<g ref="char:EOLhyphen"/>poſite, than the humble, ſweet and gentle example of the bleſ<g ref="char:EOLhyphen"/>ſed Jeſus, and the proud inſulting domineering, and uſurping humour of this his pretended Viccar.</p>
+            <p>Infine, a Papiſt is one that has a Priviledge not inferior to <hi>Paul</hi> the <hi>Roman,</hi> born at <hi>Tarſus,</hi> for what Countrey-man ſoever he be, he is ſtill a <hi>Roman;</hi> ſo true to the Holy See, that he is falſe to all the World beſides, his very Religion, if he
+<pb n="6" facs="tcp:103951:4"/>underſtands it, prompts him to Diſloyalty, and according to thoſe curſed Tenets, his Prieſt have inſtil'd into him, 'tis impoſſible for him at once to ſerve God, and honour his Kings yet will they ever boaſt themſelves the beſt Subjects, but 'tis only then and there were their Intereſt fall in; at other times he will ſtir no further in his Princes cauſe, than he has orders from <hi>Rome,</hi> one Bull from whence he believes, can in a mo<g ref="char:EOLhyphen"/>ment Abſolve him from all Allegiance, and the moſt ſacred Ties of Obedience; In moſt things the Court of <hi>Rome</hi> makes uſe of him, as the Ape of the Cats foot, to take the Cheſtnut out of the Fire, and generally the Jeſuit behind the Certain that gives him motion; That, and the Inquiſition are the Buckle and Thong of Popery, the two Plaiſters whereby the Pope hopes to cure the wounds he received from <hi>Luther,</hi> and ones more by their help to ride in Triumph on the Necks of Kings and Emperors; But 'tis time to conclude, which we think fit to do in the following Hymne:</p>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:103951:4"/>
+            <head>To the Daughter of <hi>Babylon.</hi>
+            </head>
+            <lg>
+               <l>A <hi>PAPIST,</hi> He is the beſt Chriſtian Wight,</l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>And he unto Heaven doth go full right.</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>His Church of all Chriſtian Churches the firſt,</l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>And he that's not of it, is ſurely accu ſt,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>Of all Chriſtian Churches the <hi>Pope</hi> is the Head,</l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>He leads men to Heaven when they are dead.</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>All ſins he pardon's both paſt and to come,</l>
+               <l>
+                  <hi>If you will believe it you may.</hi>
+               </l>
+               <l>Then you are ſure to eſcape the laſt doom,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>
+                  <hi>Legend</hi> of <hi>Legions,</hi> all Miracles ſure,</l>
+               <l>
+                  <hi>If you will believe it you may.</hi>
+               </l>
+               <l>More to be credited, then <hi>Scripture</hi> pure,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>A <hi>Wafer</hi> the <hi>Prieſt</hi> Charm's into a <hi>God,</hi>
+               </l>
+               <l>
+                  <hi>If you will believe it you may.</hi>
+               </l>
+               <pb n="8" facs="tcp:103951:5"/>
+               <l> And ſo it becomes true <hi>Fleſh,</hi> and <hi>Blood,</hi>
+               </l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>Then into your mouth he puts it all raw,</l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>Which ſurely will bleed if that you it Chew,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>He is the beſt Friend to a <hi>Proteſtant,</hi>
+               </l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>And will ſupply him in what he doth want,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+               <l>They are the beſt Leaders that can be choſe.</l>
+               <l>
+                  <hi>If you will believe it, you may.</hi>
+               </l>
+               <l>To teach <hi>Proteſtants</hi> to fight with their Foes,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way,</hi>
+               </l>
+               <l>A <hi>Papiſt</hi> beſt Subject is to a <hi>King,</hi>
+               </l>
+               <l>
+                  <hi>If you will believe it, you may,</hi>
+               </l>
+               <l>And moſt to be truſted in any thing,</l>
+               <l>
+                  <hi>The clean contrary way,</hi>
+               </l>
+               <l>
+                  <hi>Oh! the clean contrary way.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103951:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
